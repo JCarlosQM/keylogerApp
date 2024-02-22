@@ -74,7 +74,7 @@ if __name__ == "__main__":
         with open('.upload_content.txt', 'r') as archivo:
             texto = archivo.read()
     elif sistem_function == 'Windows':
-        with open('upload_content.txt', 'r', encoding='utf-8') as archivo:
+        with open('upload_content.txt', 'r') as archivo:
             texto = archivo.read()
 
     
