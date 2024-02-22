@@ -1,0 +1,14 @@
+certifi==2024.2.2
+cffi==1.16.0
+cloudinary==1.38.0
+cryptography==42.0.3
+evdev==1.7.0
+keyboard==0.13.5
+pycparser==2.21
+pyfiglet==1.0.2
+pynput==1.7.6
+python-dotenv==1.0.1
+python-xlib==0.33
+pyxhook==1.0.0
+six==1.16.0
+urllib3==2.2.1
